@@ -9,6 +9,14 @@ hexo-toc的修改版，防止和next的侧边栏导航冲突，删除了部分�
 npm install hexo-toc-dllcn --save
 ```
 
+## USE
+
+在md文章内加入以下标识符即可。
+
+```
+<!-- toc -->
+```
+
 ## Options
 
 ```yaml
